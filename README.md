@@ -63,10 +63,10 @@ and(E,Ci,D);
 and(F,A,B);
 or(Co,E,F);
 endmodule
-
-```
 */
+```
 ###LOGIC GATES:
+
 Logic symbol of Half adder:
 
 ![Screenshot 2023-03-29 220702](https://user-images.githubusercontent.com/120115840/228607940-1802d49e-5d56-4a07-9dec-8db8baa4e43a.png)
@@ -76,6 +76,7 @@ Logic symbol of Full adder:
 ![Screenshot 2023-03-29 220543](https://user-images.githubusercontent.com/120115840/228607774-18f8878c-6cf2-4a80-b380-ad349fe59821.png)
 
 ###TRUTH TABLE:
+
 Truth table of Half adder:
 
 ![Screenshot 2023-03-29 221152](https://user-images.githubusercontent.com/120115840/228609054-f763847f-8df3-4bf7-86ae-057093053e2d.png)
@@ -85,15 +86,17 @@ Truth table of Full adder:
 ![Screenshot 2023-03-29 221046](https://user-images.githubusercontent.com/120115840/228608793-884ca3b5-2b0b-45dd-b94d-c2be95953a80.png)
 
 ###RTL:
+
 RTL realization of Half adder:
 
 ![half adder gate](https://user-images.githubusercontent.com/120115840/228608422-e3c3486a-c1a5-46cb-acc1-bed4b8a3fa52.png)
 
 RTL realization of Full adder:
 
-![fulladder gate](https://user-images.githubusercontent.com/120115840/228608287-9413bebb-37d8-4ff6-aeb0-bac46f3bc208.png)
+![fulladder gate](https://user-images.githubusercontent.com/120115840/228611245-852ddbb2-7480-4fba-ab33-f1e512c8b9c9.png)
 
 ### Waveform:
+
 Half adder:
 
 ![half adder table](https://user-images.githubusercontent.com/120115840/228610175-466fea28-01f2-4029-a23c-ed9591613c84.png)
